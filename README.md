@@ -1,2 +1,2 @@
 # Coursework
-Notable coursework completed as a computer science student.
+Some notable coursework completed as a computer science student.
